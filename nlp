@@ -1,0 +1,21 @@
+NLP: Natural Language Processing
+
+--> text summerization
+--> opnion mining
+--> sentiment analysis
+
+
+NLTK-->  data(tweepy- twitter ) --> tokenize --> cleaner --> algo --> sentimwntemt --> graph
+
+Cleaning of Data:
+
+Data: --sentance and -- word :- tokenization
+lemmatization ---> making the word to a eaning
+eg
+	go
+	goes		 --------->>>> go
+	gone
+stemming --> making upto the common words  
+eg inteligent
+inteligence		----->>>>> these would be conveted into inteligen
+inteligentially

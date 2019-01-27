@@ -1,0 +1,8 @@
+web UI
+        Diabities and Breast Cancer
+        
+    fronthand
+        checkbox
+            
+iris dataset
+    guage graph of output(accuracy score)
